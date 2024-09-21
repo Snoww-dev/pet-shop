@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I5rQcUmRNk2KQVZF8QBA2VFnO0xV7FQx0gRnWR9CiP8wWyYPgGBHEKKv0lNw4MdYuPd6chL4RatpiFu5YOJZLg==",
+  "dgSpecHash": "r4CB//4ae/22h7AgRIuQsPu/gphzdR8suEDkJm0b/6bh5zm7Wt5L/dtYZrxxaoXh0fysAvvf1qei607SLe8peQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admins\\OneDrive\\Desktop\\pet-shop\\pet-shop\\pet-shop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\GIGABYTE\\Desktop\\Project CV\\pet-shop\\pet-shop\\pet-shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
   "logs": []
 }
